@@ -106,7 +106,7 @@ This prevents 404 errors on page refresh for routes.
 
 ## 🧑‍💻 Author
 
-Developed by **[Md Abu Hujaifa]**  
+Developed by **Md Abu Hujaifa**  
 Connect on [LinkedIn](https://www.linkedin.com/in/md-abu-hujaifa/) or [GitHub](https://github.com/Hujaifa81) or [Portfolio](https://md-abu-hujaifa.netlify.app/)
 
 ---
