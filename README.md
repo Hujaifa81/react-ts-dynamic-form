@@ -1,7 +1,7 @@
 
 # 🧩 Dynamic Form App (React + TypeScript)
 
-A responsive, dynamic form-based application built with **React** and **TypeScript**, featuring real-time validation, field management, and user feedback using **SweetAlert2** and **React Toastify**.
+A responsive, dynamic form-based application built with **React** and **TypeScript**, featuring real-time validation with **React Hook Form**, field management, and user feedback using **SweetAlert2** and **React Toastify**.
 
 🔗 **Live Demo**: [Live Demo](https://gregarious-licorice-dcffbd.netlify.app/)
 
